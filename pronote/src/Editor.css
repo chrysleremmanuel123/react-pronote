@@ -1,0 +1,30 @@
+h3{
+    color: white;
+}
+.container{
+    background-color: #3498db;
+    overflow: hidden;
+    height: 680px;
+}
+.input{
+    margin-left: 50px;
+    float:left;
+}
+.input-text{
+    height: 400px;
+    width: 700px;
+    font-size: 14pt;
+    background-color: #3498db;
+    color: white;
+    font-size: 1.5rem;
+}
+.output{
+    overflow: hidden;
+    padding-left: 50px;
+    
+}
+.output-text{
+    color: white;
+    background-color: #1e272e;
+    font-size: 1.5rem;
+}
